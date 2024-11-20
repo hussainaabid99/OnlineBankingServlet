@@ -116,7 +116,6 @@ Push to the branch and create a pull request
 License
 This project is licensed under the MIT License.
 
-Let me know if you need any further help!
 
 
 
