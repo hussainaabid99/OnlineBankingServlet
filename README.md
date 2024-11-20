@@ -115,10 +115,3 @@ Make your changes and commit
 Push to the branch and create a pull request
 License
 This project is licensed under the MIT License.
-
-
-
-
-
-
-
